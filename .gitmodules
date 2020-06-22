@@ -1,0 +1,3 @@
+[submodule "extern/repo"]
+	path = extern/repo
+	url = https://github.com/JDAI-CV/dabnn.git
